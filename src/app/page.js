@@ -63,6 +63,7 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <link href="/rendering/ssr"></link>
       </main>
     </div>
   );
